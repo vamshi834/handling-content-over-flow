@@ -1,0 +1,13 @@
+.style {  
+    background-color: cadetblue;  
+    width: 200px;  
+    height: 150px;  
+    overflow: auto;  
+}  
+  
+.div1 {  
+    background-color: coral; 
+    width: 100px;  
+    height: 170px;  
+    overflow: hidden;  
+}  
